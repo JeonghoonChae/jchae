@@ -1,1 +1,2 @@
 # jchae
+- [X] Jeonghoon Chae, FTMBA 20 🙌
